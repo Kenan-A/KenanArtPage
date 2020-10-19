@@ -1,0 +1,146 @@
+#p1
+{
+  font-size:35px;
+  font-family:Consolas;
+  color:#FFFFFF;
+
+
+
+}
+#p0
+{
+  font-size:35px;
+  font-family:Brush Script MT;
+  color:#000000;
+
+
+
+}
+body
+{
+  background-color:#A69B99;
+  width:90%;
+
+}
+h1
+{
+  margin: auto;
+  margin-left: 20%;
+  color:#F0FF0C;
+  font-size: 50px;
+  font-family: Comic Sans MS;
+  text-shadow: 4px 4px #000000;
+
+}
+h2
+{
+  font-family:Goudy Old Style;
+  margin-left: 25%;
+}
+#iF1
+{
+  margin-left: 40%;
+
+}
+
+h4
+{
+  margin-left: 25%;
+  margin-right: 10%;
+  font-size: 45px;
+
+
+}
+a
+{
+  color:#0720f4;
+  font-family: Rockwell Extra Bold;
+
+}
+#h1p2
+{
+  margin-left: 25%;
+  color:#f45207;
+
+  font-size: 60px;
+  font-family:Comic Sans MS ;
+
+}
+#h1p3
+{
+  margin-left: 25%;
+  color:#07f427;
+
+  font-size: 60px;
+  font-family:Comic Sans MS ;
+
+}
+#sk12
+{
+margin-left: 30%;
+
+}
+#if1
+{
+  margin-left: 30%;
+}
+#p2
+{
+  font-size: 25px;
+  margin-left: 25%;
+  font-family: Consolas;
+}
+#if2
+{
+  margin-left: 15%;
+}
+#p4
+{
+  color:#000000;
+  font-size:20px;
+  font-family: consolas;
+}
+#p5
+{
+  margin-left: 30%;
+  color:#FFFFFF;
+  font-size:10px;
+  font-family: consolas;
+}
+#if3
+{
+  margin-left:20%;
+
+}
+#p3
+{
+  margin-left: 20%;
+}
+#if4
+{
+  margin-left:40%;
+}
+#p4
+{
+  margin-left: 30%;
+
+}
+#final
+{
+  margin-left:15%;
+
+}
+#finalh1
+{
+  color:#f9180a;
+
+  font-size:80px;
+  margin-left: 25%;
+}
+#finalh2
+{
+  color:#000000;
+  text-shadow: 1px 1px #ffffff; 
+  font-size:50px;
+  margin-left: 25%;
+}
